@@ -44,7 +44,7 @@
   <table>
     <tr>
       <td></td>
-      <td><a href="#--------"><img height="1000px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santanamnaa&layout=compact&line_height=21&hide_border=true&theme=apprentice"/></a></td>
+      <td><a href="#--------"><img height="256px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santanamnaa&layout=compact&line_height=21&hide_border=true&theme=apprentice"/></a></td>
     </tr>
   </table>
 </div>
