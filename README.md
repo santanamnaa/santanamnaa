@@ -11,7 +11,7 @@
         I'm Santana Mena, a student with a strong interest in data science
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Text&size=16&color=697565&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Text&size=16&color=697565&center=true&width=410&height=45&lines=I+craft+code+create+visually+appealing+aesthetically+pleasing+programs.">
       <br>
       <b>
         ~ Dum Spiro Spero ~
