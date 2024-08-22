@@ -8,7 +8,7 @@
       <b>
         Hello There
       <br>
-        I'm Santana Mena, a student with a strong interest in data science
+        I'm Santana Mena, a student with a strong interest in Data Science, AI, and Block Chain. 
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Text&size=16&color=697565&center=true&width=410&height=45&lines=Crafting+beautiful+code">
