@@ -27,8 +27,8 @@
 <summary><samp><b>Recent Projects & Contributions</b></samp></summary>
   <ul>
     <li><a href="https://github.com/santanamnaa/SmartTraffic">Project 1: AI-Powered Smart Traffic System</a></li>
-    <li><a href="https://github.com/santanamnaa/identik">Project 2: Blockchain-based</a></li>
-    <li><a href="https://github.com/santanamnaa/simjang">Project 3: Heart Desease Prediction</a></li>
+    <li><a href="https://github.com/santanamnaa/identik">Project 2: Blockchain-based Identity Management</a></li>
+    <li><a href="https://github.com/santanamnaa/simjang">Project 3: Heart Disease Prediction</a></li>
   </ul>
 </details>
 
@@ -51,7 +51,7 @@
 <!-- Contact Info -->
 <p align="center">
   <samp>  
-    Feel free to connect via <a href="mailto:santanamnaa8@gmail.com">Email</a> or explore my work on <a href="https://github.com/santanamnaa">GitHub</a>.
+    Feel free to connect via <a href="mailto:santanamnaa.dev@gmail.com">Email</a>, check out my <a href="https://santanamena.com">Website</a>, or explore my work on <a href="https://github.com/santanamnaa">GitHub</a>.
   </samp>
 </p>
 
