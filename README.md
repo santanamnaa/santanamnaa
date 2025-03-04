@@ -6,7 +6,7 @@
   <p align="center">
     <samp>
       <b>
-        Hello World!
+        Hello!
       <br>
         I'm Santana Mena, a passionate student exploring the realms of Data Science and Artificial Intelligence.
       </b>
