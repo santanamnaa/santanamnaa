@@ -18,7 +18,7 @@ Building **TSP Digital** — AI-powered SaaS & digital strategy
 - CS @ BINUS 
 - CEO @ **TSP Digital**
 - Goal: **AI Engineer**
-- Indonesia · Open to collab/freelance
+- Open to collab/freelance
 
 ---
 
