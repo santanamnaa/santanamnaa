@@ -103,7 +103,7 @@ Building **TSP Digital** — AI-powered SaaS & digital strategy
 <p>
   <a href="mailto:santanamnaa.dev@gmail.com"><img src="https://img.shields.io/badge/Email-santanamnaa.dev@gmail.com-0f172a?logo=gmail&logoColor=white" /></a>
   <a href="https://santanamnaa.dev"><img src="https://img.shields.io/badge/Website-santanamnaa.dev-1f2937?logo=vercel&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/santana-mena/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
