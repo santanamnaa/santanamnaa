@@ -1,6 +1,6 @@
 <!-- Hero -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Santana%20Mena&fontAlign=50&fontColor=ffffff&desc=AI%20Engineer%20in%20Progress%20%F0%9F%A4%96%20%E2%80%A2%20CEO%20@%20TSP%20Digital&descAlign=50&descAlignY=70&color=0:0F172A,100:1F2937&animation=fadeIn" alt="Santana Mena header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Santana%20Mena&fontAlign=50&fontColor=ffffff&desc=AI%20Engineer%20%20%F0%9F%A4%96%20%E2%80%A2%20CEO%20@%20TSP%20Digital&descAlign=50&descAlignY=70&color=0:0F172A,100:1F2937&animation=fadeIn" alt="Santana Mena header"/>
 </p>
 
 <div align="center">
