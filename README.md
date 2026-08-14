@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Pure Executive Monochrome Header Banner -->
+  <!-- Header Banner -->
   <a href="https://santanamnaa.dev">
     <img 
       src="https://capsule-render.vercel.app/api?type=rect&height=140&color=161b22&stroke=30363d&strokeWidth=1&text=Santana%20Mena&fontAlign=50&fontAlignY=38&fontSize=40&fontColor=ffffff&desc=Software%20Developer%20%7C%20AI%20Engineer%20%7C%20Business%20Analyst&descAlign=50&descAlignY=68&descSize=15" 
@@ -12,7 +12,7 @@
   <br/><br/>
 
   <p>
-    Based in Indonesia
+    <b>Open for Full-Time Roles & Engineering Projects</b> &middot; Based in Indonesia
   </p>
 
   <p>
@@ -28,11 +28,21 @@
 
 ### About
 
-Hi, I am **Santana Mena**, a Software Developer, AI Engineer, and Business Analyst based in Indonesia. Currently studying Computer Science with a Minor in Data Science at **BINUS University**.
+Software Developer, AI Engineer, and Business Analyst with hands-on experience building production-ready web platforms, artificial intelligence systems, and business technology solutions. 
 
-I build web platforms, mobile applications, AI systems, and business technology solutions using React, Next.js, Node.js, Python, SQL, and enterprise analytics tools.
+Graduating in Computer Science with a **Minor in Data Science** at **BINUS University**, specializing in full-stack web development, machine learning pipelines, and data-driven business architecture.
 
-Feel free to check out my **[projects](https://santanamnaa.dev/projects)** or view my **[achievements](https://santanamnaa.dev/achievements)**.
+Available for full-time Software Developer, AI Engineer, and Business Analyst opportunities.
+
+Explore my portfolio at **[santanamnaa.dev](https://santanamnaa.dev)** or review my **[featured projects](https://santanamnaa.dev/projects)**.
+
+---
+
+### Key Competencies
+
+- **Software Engineering**: Full-stack web development (Next.js, React, Node.js, Python, Go, SQL), scalable REST APIs, microservices, and mobile applications.
+- **AI & Data Science**: LLM integration, machine learning workflows (PyTorch, TensorFlow, LangChain, vLLM), predictive modeling, and statistical analysis.
+- **Business Analysis**: Requirement engineering, business process optimization, system architecture design, and enterprise reporting (SAP Analytics Cloud).
 
 ---
 
@@ -42,7 +52,7 @@ Feel free to check out my **[projects](https://santanamnaa.dev/projects)** or vi
 - **Frontend & Mobile**: Next.js, React, Tailwind CSS, Redux, Vite, Flutter
 - **Backend & Databases**: Node.js, Express, FastAPI, Django, PostgreSQL, MySQL, MongoDB, Supabase, Firebase
 - **AI & Data Science**: PyTorch, TensorFlow, OpenAI API, LangChain, vLLM, HuggingFace, Pandas, Scikit-Learn
-- **Tools & Infrastructure**: Docker, Kubernetes, GitHub Actions, Vercel, GCP, AWS, SAP Analytics Cloud
+- **Infrastructure & Tools**: Docker, Kubernetes, GitHub Actions, Vercel, GCP, AWS, SAP Analytics Cloud
 
 ---
 
@@ -58,6 +68,6 @@ Feel free to check out my **[projects](https://santanamnaa.dev/projects)** or vi
 
 <div align="center">
 
-  <p>Reach me at <a href="mailto:santanamnaa.dev@gmail.com">santanamnaa.dev@gmail.com</a> or via <a href="https://santanamnaa.dev/contact">santanamnaa.dev/contact</a>.</p>
+  <p>Looking to hire or collaborate? Reach me directly at <a href="mailto:santanamnaa.dev@gmail.com"><b>santanamnaa.dev@gmail.com</b></a> or via <a href="https://santanamnaa.dev/contact"><b>santanamnaa.dev/contact</b></a>.</p>
 
 </div>
