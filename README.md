@@ -1,20 +1,14 @@
 <div align="center">
 
-  <!-- Minimalist Terminal Code Window with Control Buttons & Blue Glow -->
-  <div style="max-width: 650px; margin: 0 auto; text-align: center;">
+  <!-- Glassmorphic Soft Pill Header with Stroke & Blue Shadow Glow -->
+  <p align="center">
     <a href="https://santanamnaa.dev">
       <img 
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=640&height=140&lines=%E2%97%8F+%E2%97%8F+%E2%97%8F+--+terminal;%3E_Santana+Mena;%3E_Software+Developer;%3E_AI+Engineer;%3E_Business+Analyst" 
-        alt="Minimalist Terminal Code Window"
-        style="filter: drop-shadow(0 0 20px rgba(59, 130, 246, 0.65)); border-radius: 12px; border: 1px solid rgba(59, 130, 246, 0.3);"
+        src="https://capsule-render.vercel.app/api?type=soft&height=160&color=0d1117&stroke=3b82f6&strokeWidth=1.5&text=Santana%20Mena&fontAlign=50&fontAlignY=38&fontSize=42&fontColor=ffffff&desc=Software%20Developer%20%7C%20AI%20Engineer%20%7C%20Business%20Analyst&descAlign=50&descAlignY=68&descSize=16" 
+        alt="Santana Mena Glassmorphic Soft Pill Header"
+        style="filter: drop-shadow(0 0 18px rgba(59, 130, 246, 0.6)); border-radius: 16px;"
       />
     </a>
-  </div>
-
-  <br/>
-
-  <p style="filter: drop-shadow(0 0 8px rgba(59, 130, 246, 0.4)); font-family: monospace;">
-    Software Developer &middot; AI Engineer &middot; Business Analyst
   </p>
 
   <p>
