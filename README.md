@@ -1,11 +1,15 @@
 <div align="center">
 
-  <!-- Keyboard Typing Animation -->
+  <!-- Keyboard Typing Animation with Subtle Blue Glow / Drop Shadow -->
   <a href="https://santanamnaa.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Santana+Mena;Software+Developer;AI+Engineer;Business+Analyst" alt="Typing Animation" />
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Santana+Mena;Software+Developer;AI+Engineer;Business+Analyst" 
+      alt="Typing Animation"
+      style="filter: drop-shadow(0 0 16px rgba(59, 130, 246, 0.65));"
+    />
   </a>
 
-  <p>
+  <p style="filter: drop-shadow(0 0 8px rgba(59, 130, 246, 0.4));">
     Software Developer &middot; AI Engineer &middot; Business Analyst
   </p>
 
