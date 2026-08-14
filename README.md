@@ -12,7 +12,7 @@
   <br/><br/>
 
   <p>
-    <b>Software Engineer</b> &middot; Open for Full-Time Roles &middot; Based in Indonesia
+    <b>Software Engineer</b> &middot; Open for Remote & Full-Time Roles &middot; Based in Indonesia
   </p>
 
   <p>
@@ -32,7 +32,7 @@ Software Engineer with hands-on experience building production-ready web platfor
 
 Graduating in Computer Science with a **Minor in Data Science** at **BINUS University**, specializing in full-stack web architecture, clean code practices, and performant modern software stacks.
 
-Available for full-time Software Engineer opportunities.
+Interested in **Remote Software Engineer roles globally** and full-time engineering opportunities.
 
 Explore my portfolio at **[santanamnaa.dev](https://santanamnaa.dev)** or review my **[featured projects](https://santanamnaa.dev/projects)**.
 
@@ -68,6 +68,6 @@ Explore my portfolio at **[santanamnaa.dev](https://santanamnaa.dev)** or review
 
 <div align="center">
 
-  <p>Looking to hire a Software Engineer? Reach me directly at <a href="mailto:santanamnaa.dev@gmail.com"><b>santanamnaa.dev@gmail.com</b></a> or via <a href="https://santanamnaa.dev/contact"><b>santanamnaa.dev/contact</b></a>.</p>
+  <p>Interested in hiring a Remote Software Engineer? Reach me directly at <a href="mailto:santanamnaa.dev@gmail.com"><b>santanamnaa.dev@gmail.com</b></a> or via <a href="https://santanamnaa.dev/contact"><b>santanamnaa.dev/contact</b></a>.</p>
 
 </div>
