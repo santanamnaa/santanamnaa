@@ -62,24 +62,19 @@ Feel free to check out my **[projects](https://santanamnaa.dev/projects)** or vi
 
 ---
 
-### GitHub Insights
+### GitHub Activity Graph
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/santanamnaa">
-          <img src="https://github-readme-stats.vercel.app/api?username=santanamnaa&show_icons=false&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/santanamnaa">
-          <img src="https://streak-stats.demolab.com?user=santanamnaa&theme=dark&hide_border=true" height="150" alt="GitHub Streak" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/santanamnaa">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=santanamnaa&theme=react-dark&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/santanamnaa">
+    <img src="https://streak-stats.demolab.com?user=santanamnaa&theme=dark&hide_border=true" height="160" alt="GitHub Streak Stats" />
+  </a>
 
 </div>
 
