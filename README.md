@@ -47,6 +47,10 @@ Explore my portfolio at **[santanamnaa.dev](https://santanamnaa.dev)** or review
 
 ### Tech Stack & Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,go,cpp,java,nextjs,react,tailwind,nodejs,express,fastapi,postgres,mysql,mongodb,supabase,firebase,docker,gcp,aws,vercel,git,linux&perline=8" alt="Tech Stack Icons" />
+</p>
+
 - **Languages**: TypeScript, JavaScript, Python, Go, C++, Java, Kotlin, SQL
 - **Frontend & Mobile**: Next.js, React, Tailwind CSS, Redux, Vite, Flutter
 - **Backend & Databases**: Node.js, Express, FastAPI, Django, PostgreSQL, MySQL, MongoDB, Supabase, Firebase
