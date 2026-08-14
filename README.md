@@ -32,7 +32,7 @@ Software Engineer specializing in production-ready web platforms, backend micros
 ### Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,go,nextjs,react,tailwind,nodejs,express,fastapi,postgres,mysql,mongodb,docker,gcp,aws,vercel,git&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,go,cpp,nextjs,react,tailwind,nodejs,express,postgres,mysql,mongodb,supabase,firebase,docker,gcp,vercel,git&perline=10" alt="Tech Stack" />
 </p>
 
 ---
