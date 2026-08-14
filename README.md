@@ -1,18 +1,5 @@
 <div align="center">
 
-  <!-- Profile Photo matching santanamnaa.dev -->
-  <a href="https://santanamnaa.dev">
-    <img 
-      src="https://santanamnaa.dev/images/pas_foto.jpg" 
-      alt="Santana Mena" 
-      width="120" 
-      height="120" 
-      style="border-radius: 50%; border: 2px solid #30363d;"
-    />
-  </a>
-
-  <br/><br/>
-
   # Santana Mena
 
   <p>
