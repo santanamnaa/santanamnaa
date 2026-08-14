@@ -1,15 +1,11 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <a href="https://santanamnaa.dev">
-    <img 
-      src="https://capsule-render.vercel.app/api?type=rect&height=140&color=161b22&stroke=30363d&strokeWidth=1&text=Santana%20Mena&fontAlign=50&fontAlignY=38&fontSize=40&fontColor=ffffff&desc=Software%20Engineer&descAlign=50&descAlignY=68&descSize=16" 
-      alt="Santana Mena Header" 
-      width="100%"
-    />
-  </a>
-
-  <br/><br/>
+```
+================================================================================
+                           S A N T A N A   M E N A
+                        Remote Software Engineer
+================================================================================
+```
 
   <p>
     <b>Software Engineer</b> &middot; Open for Remote & Full-Time Roles &middot; Based in Indonesia
