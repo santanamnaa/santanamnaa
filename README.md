@@ -1,10 +1,11 @@
 <div align="center">
 
-  <!-- Clean Typing SVG Header without Box/Frame -->
+  <!-- Animated Hero Banner -->
   <a href="https://santanamnaa.dev">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2200&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=60&lines=Santana+Mena;Remote+Software+Engineer" 
-      alt="Santana Mena Header" 
+      src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0d1117&text=Santana%20Mena&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Open%20for%20Remote%20Roles&descAlign=50&descAlignY=62&descSize=16&animation=twinkling" 
+      alt="Santana Mena Hero Banner" 
+      width="100%"
     />
   </a>
 
