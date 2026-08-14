@@ -1,94 +1,113 @@
-<!-- Hero -->
+<!-- Hero Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Santana%20Mena&fontAlign=50&fontColor=ffffff&desc=Software%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Business%20Analyst&descAlign=50&descAlignY=70&color=0:0F172A,100:1F2937&animation=fadeIn" alt="Santana Mena header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0:0d1117,30:161b22,70:090d16,100:030712&text=Santana%20Mena&fontAlign=50&fontAlignY=35&fontSize=52&fontColor=ffffff&desc=Software%20Developer%20%7C%20AI%20Engineer%20%7C%20Business%20Analyst&descAlign=50&descAlignY=58&descSize=18&animation=twinkling" alt="Santana Mena Header Banner" />
 </p>
+
+<!-- Dynamic Typing Subtitle -->
+<p align="center">
+  <a href="https://santanamnaa.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Developer+%E2%9A%A1;AI+Engineer+%F0%9F%A4%96;Business+Analyst+%F0%9F%93%88;Founder+%26+CEO+%40+TSP+Digital+%F0%9F%9A%80;Minor+in+Data+Science+%40+BINUS+%F0%9F%8E%93" alt="Typing Header" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://santanamnaa.dev"><img src="https://img.shields.io/badge/🌐_Website-santanamnaa.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://tspdigital.id"><img src="https://img.shields.io/badge/🚀_Company-TSP_Digital-1e293b?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/santana-mena/"><img src="https://img.shields.io/badge/💼_LinkedIn-Santana_Mena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:santanamnaa.dev@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-santanamnaa.dev@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<br/>
+
+---
+
+### ⚡ Executive Overview
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📍 Professional Profile</h4>
+      <ul>
+        <li>💼 <b>Roles</b>: Software Developer · AI Engineer · Business Analyst</li>
+        <li>🏢 <b>Leadership</b>: Founder & CEO @ <b>TSP Digital</b></li>
+        <li>🎓 <b>Education</b>: Computer Science with <b>Minor in Data Science</b> @ <b>BINUS University</b></li>
+        <li>🌍 <b>Location</b>: Based in <b>Indonesia</b></li>
+        <li>🎯 <b>Focus</b>: Enterprise Software, Generative AI Systems, MLOps & Business Intelligence</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏆 Honors & Recognitions</h4>
+      <ul>
+        <li>🇮🇩 <b>Finalis Duta Bahasa Jawa Barat 2023</b></li>
+        <li>🌐 <b>ICP Hacker House Bali 2024 Winner</b></li>
+        <li>💻 <b>ICPC Asia Jakarta Finalist Participant</b></li>
+        <li>🎖️ <b>BINUS Outstanding Student Award</b></li>
+        <li>📊 <b>SAP Analytics Cloud Certified Specialist</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
 
 <div align="center">
 
-**Software Developer · AI Engineer · Business Analyst**  
-Building **TSP Digital** — AI-powered SaaS & digital tech solutions 
-
-[Website](https://santanamnaa.dev) · [TSP Digital](https://tspdigital.id) · [LinkedIn](https://www.linkedin.com/in/santana-mena/) · [Email](mailto:santanamnaa.dev@gmail.com)
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | `TypeScript` `JavaScript` `Python` `Go` `C++` `Java` `Kotlin` `SQL` |
+| **Frontend & Mobile** | `Next.js` `React` `TailwindCSS` `Redux` `Vite` `Flutter` `HTML5/CSS3` |
+| **Backend & Cloud** | `Node.js` `Express.js` `FastAPI` `Django` `PostgreSQL` `MySQL` `MongoDB` `Supabase` `Firebase` |
+| **AI & MLOps** | `PyTorch` `TensorFlow` `OpenAI API` `LangChain` `vLLM` `HuggingFace` `Pandas` `Scikit-Learn` |
+| **DevOps & Infrastructure** | `Docker` `Kubernetes` `GitHub Actions` `Vercel` `GCP` `AWS` `Linux` |
 
 </div>
 
----
-
-### About Me
-- 🎓 **Education**: Computer Science with a **Minor in Data Science** @ BINUS University
-- 📍 **Location**: Based in Indonesia
-- 💼 **Role**: Software Developer, AI Engineer & Business Analyst
-- 🚀 **Founder**: CEO @ **TSP Digital**
-- 🤝 **Open to**: Collaboration, AI/ML Engineering & Tech Strategy Projects
-
----
-
-### Tech Stack & Tools
-**Programming Languages & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,go,cpp,java,nextjs,react,tailwind,nodejs,fastapi,postgres,mongodb,firebase,docker,gcp,aws,vercel&perline=9" alt="Tech Stack Icons" />
 </p>
 
 ---
 
-### Highlights & Achievements
-- 🏆 **Finalis Duta Bahasa Jawa Barat 2023**
-- 🏆 **ICP Hacker House Bali 2024**
-- 🏆 **ICPC Asia Jakarta Participant**
-- 🏆 **Outstanding Student Award**
-- 📊 **SAP Analytics Cloud Certified**
+### 📊 GitHub Activity & Performance
 
----
-
-## GitHub Insights
 <div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/santanamnaa">
+          <img src="https://github-readme-stats.vercel.app/api?username=santanamnaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Santana Mena GitHub Stats" height="170" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/santanamnaa">
+          <img src="https://streak-stats.demolab.com?user=santanamnaa&theme=tokyonight&hide_border=true" alt="Santana Mena GitHub Streak" height="170" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  <br/>
   <a href="https://github.com/santanamnaa">
-    <img alt="Streak" height="180" src="https://streak-stats.demolab.com?user=santanamnaa&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santanamnaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
   </a>
   <br/><br/>
-  <a href="#stats">
-    <img alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santanamnaa&layout=compact&hide_border=true&theme=tokyonight"/>
-  </a>
-  <br/><br/>
-  <a href="#trophies">
-    <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=santanamnaa&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <a href="https://github.com/santanamnaa">
+    <img src="https://github-profile-trophy.vercel.app/?username=santanamnaa&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
   </a>
 </div>
 
 ---
 
-### Connect
-<p>
-  <a href="mailto:santanamnaa.dev@gmail.com"><img src="https://img.shields.io/badge/Email-santanamnaa.dev%40gmail.com-0f172a?logo=gmail&logoColor=white" /></a>
-  <a href="https://santanamnaa.dev"><img src="https://img.shields.io/badge/Website-santanamnaa.dev-1f2937?logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/santana-mena/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?logo=linkedin&logoColor=white" /></a>
+### 💬 Let's Build Together
+
+Whether you are looking to build a high-performance web platform, integrate cutting-edge AI / LLM models, or analyze enterprise data for business strategy:
+
+<p align="center">
+  <a href="https://santanamnaa.dev"><b>🌐 Explore Portfolio Website (santanamnaa.dev)</b></a> &nbsp;|&nbsp;
+  <a href="mailto:santanamnaa.dev@gmail.com"><b>✉️ Send Email (santanamnaa.dev@gmail.com)</b></a>
 </p>
 
----
-
-> _“Bridging tech for real-world impact.”_
+<p align="center">
+  <sub><i>"Bridging software development, artificial intelligence, and business strategy to create high-impact technology."</i></sub>
+</p>
