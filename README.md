@@ -3,7 +3,7 @@
   <!-- Header Banner -->
   <a href="https://santanamnaa.dev">
     <img 
-      src="https://capsule-render.vercel.app/api?type=rect&height=140&color=161b22&stroke=30363d&strokeWidth=1&text=Santana%20Mena&fontAlign=50&fontAlignY=38&fontSize=40&fontColor=ffffff&desc=Software%20Developer%20%7C%20AI%20Engineer%20%7C%20Business%20Analyst&descAlign=50&descAlignY=68&descSize=15" 
+      src="https://capsule-render.vercel.app/api?type=rect&height=140&color=161b22&stroke=30363d&strokeWidth=1&text=Santana%20Mena&fontAlign=50&fontAlignY=38&fontSize=40&fontColor=ffffff&desc=Software%20Engineer&descAlign=50&descAlignY=68&descSize=16" 
       alt="Santana Mena Header" 
       width="100%"
     />
@@ -12,7 +12,7 @@
   <br/><br/>
 
   <p>
-    <b>Open for Full-Time Roles & Engineering Projects</b> &middot; Based in Indonesia
+    <b>Software Engineer</b> &middot; Open for Full-Time Roles &middot; Based in Indonesia
   </p>
 
   <p>
@@ -28,31 +28,31 @@
 
 ### About
 
-Software Developer, AI Engineer, and Business Analyst with hands-on experience building production-ready web platforms, artificial intelligence systems, and business technology solutions. 
+Software Engineer with hands-on experience building production-ready web platforms, scalable backend services, and mobile application solutions. 
 
-Graduating in Computer Science with a **Minor in Data Science** at **BINUS University**, specializing in full-stack web development, machine learning pipelines, and data-driven business architecture.
+Graduating in Computer Science with a **Minor in Data Science** at **BINUS University**, specializing in full-stack web architecture, clean code practices, and performant modern software stacks.
 
-Available for full-time Software Developer, AI Engineer, and Business Analyst opportunities.
+Available for full-time Software Engineer opportunities.
 
 Explore my portfolio at **[santanamnaa.dev](https://santanamnaa.dev)** or review my **[featured projects](https://santanamnaa.dev/projects)**.
 
 ---
 
-### Key Competencies
+### Core Competencies
 
-- **Software Engineering**: Full-stack web development (Next.js, React, Node.js, Python, Go, SQL), scalable REST APIs, microservices, and mobile applications.
-- **AI & Data Science**: LLM integration, machine learning workflows (PyTorch, TensorFlow, LangChain, vLLM), predictive modeling, and statistical analysis.
-- **Business Analysis**: Requirement engineering, business process optimization, system architecture design, and enterprise reporting (SAP Analytics Cloud).
+- **Frontend Engineering**: Next.js, React, TypeScript, Tailwind CSS, Redux, Vite, Flutter, responsive UI/UX architecture.
+- **Backend & Systems**: Node.js, Express, FastAPI, Django, Go, C++, REST APIs, microservices, and database optimization.
+- **Database Management**: PostgreSQL, MySQL, MongoDB, Supabase, Firebase, and relational schema modeling.
+- **DevOps & Delivery**: Docker, Kubernetes, CI/CD with GitHub Actions, Vercel, GCP, AWS, and cloud deployments.
 
 ---
 
-### Stack & Technologies
+### Tech Stack & Tools
 
 - **Languages**: TypeScript, JavaScript, Python, Go, C++, Java, Kotlin, SQL
 - **Frontend & Mobile**: Next.js, React, Tailwind CSS, Redux, Vite, Flutter
 - **Backend & Databases**: Node.js, Express, FastAPI, Django, PostgreSQL, MySQL, MongoDB, Supabase, Firebase
-- **AI & Data Science**: PyTorch, TensorFlow, OpenAI API, LangChain, vLLM, HuggingFace, Pandas, Scikit-Learn
-- **Infrastructure & Tools**: Docker, Kubernetes, GitHub Actions, Vercel, GCP, AWS, SAP Analytics Cloud
+- **Infrastructure & Tools**: Docker, Kubernetes, GitHub Actions, Vercel, GCP, AWS, Linux, Git
 
 ---
 
@@ -68,6 +68,6 @@ Explore my portfolio at **[santanamnaa.dev](https://santanamnaa.dev)** or review
 
 <div align="center">
 
-  <p>Looking to hire or collaborate? Reach me directly at <a href="mailto:santanamnaa.dev@gmail.com"><b>santanamnaa.dev@gmail.com</b></a> or via <a href="https://santanamnaa.dev/contact"><b>santanamnaa.dev/contact</b></a>.</p>
+  <p>Looking to hire a Software Engineer? Reach me directly at <a href="mailto:santanamnaa.dev@gmail.com"><b>santanamnaa.dev@gmail.com</b></a> or via <a href="https://santanamnaa.dev/contact"><b>santanamnaa.dev/contact</b></a>.</p>
 
 </div>
