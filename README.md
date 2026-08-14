@@ -1,11 +1,16 @@
 <div align="center">
 
-  # Santana Mena
+  <!-- Animated Hero Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:161b22,100:0d1117&text=Santana%20Mena&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=ffffff&desc=Software%20Developer%20%7C%20AI%20Engineer%20%7C%20Business%20Analyst&descAlign=50&descAlignY=62&descSize=16&animation=twinkling" width="100%" alt="Santana Mena Animated Hero Header"/>
 
-  <p>
-    <b>Software Developer · AI Engineer · Business Analyst</b><br/>
-    <sub>Based in Indonesia 🇮🇩</sub>
-  </p>
+  <br/>
+
+  <!-- Dynamic Typing Subtitle -->
+  <a href="https://santanamnaa.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Developer+%E2%9A%A1;AI+Engineer+%F0%9F%A4%96;Business+Analyst+%F0%9F%93%88;Computer+Science+(Minor+in+Data+Science)+%40+BINUS+%F0%9F%8E%93" alt="Typing Header" />
+  </a>
+
+  <br/><br/>
 
   <p>
     <a href="https://santanamnaa.dev"><b>Website</b></a> &nbsp;·&nbsp;
