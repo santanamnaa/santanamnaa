@@ -1,15 +1,17 @@
 <div align="center">
 
-  <!-- Keyboard Typing Animation with Subtle Blue Glow / Drop Shadow -->
+  <!-- Keyboard / Terminal Hero Window with Subtle Blue Glow -->
   <a href="https://santanamnaa.dev">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Santana+Mena;Software+Developer;AI+Engineer;Business+Analyst" 
-      alt="Typing Animation"
-      style="filter: drop-shadow(0 0 16px rgba(59, 130, 246, 0.65));"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=130&lines=%3E_Santana+Mena;%3E_Software+Developer;%3E_AI+Engineer;%3E_Business+Analyst" 
+      alt="Keyboard Hero Animation"
+      style="filter: drop-shadow(0 0 24px rgba(59, 130, 246, 0.75)); border-radius: 12px;"
     />
   </a>
 
-  <p style="filter: drop-shadow(0 0 8px rgba(59, 130, 246, 0.4));">
+  <br/><br/>
+
+  <p style="filter: drop-shadow(0 0 10px rgba(59, 130, 246, 0.45)); font-family: monospace;">
     Software Developer &middot; AI Engineer &middot; Business Analyst
   </p>
 
