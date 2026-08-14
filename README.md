@@ -1,113 +1,118 @@
-<!-- Hero Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0:0d1117,30:161b22,70:090d16,100:030712&text=Santana%20Mena&fontAlign=50&fontAlignY=35&fontSize=52&fontColor=ffffff&desc=Software%20Developer%20%7C%20AI%20Engineer%20%7C%20Business%20Analyst&descAlign=50&descAlignY=58&descSize=18&animation=twinkling" alt="Santana Mena Header Banner" />
-</p>
-
-<!-- Dynamic Typing Subtitle -->
-<p align="center">
-  <a href="https://santanamnaa.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Developer+%E2%9A%A1;AI+Engineer+%F0%9F%A4%96;Business+Analyst+%F0%9F%93%88;Founder+%26+CEO+%40+TSP+Digital+%F0%9F%9A%80;Minor+in+Data+Science+%40+BINUS+%F0%9F%8E%93" alt="Typing Header" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://santanamnaa.dev"><img src="https://img.shields.io/badge/🌐_Website-santanamnaa.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://tspdigital.id"><img src="https://img.shields.io/badge/🚀_Company-TSP_Digital-1e293b?style=for-the-badge&logo=rocket&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/santana-mena/"><img src="https://img.shields.io/badge/💼_LinkedIn-Santana_Mena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:santanamnaa.dev@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-santanamnaa.dev@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<br/>
-
----
-
-### ⚡ Executive Overview
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📍 Professional Profile</h4>
-      <ul>
-        <li>💼 <b>Roles</b>: Software Developer · AI Engineer · Business Analyst</li>
-        <li>🏢 <b>Leadership</b>: Founder & CEO @ <b>TSP Digital</b></li>
-        <li>🎓 <b>Education</b>: Computer Science with <b>Minor in Data Science</b> @ <b>BINUS University</b></li>
-        <li>🌍 <b>Location</b>: Based in <b>Indonesia</b></li>
-        <li>🎯 <b>Focus</b>: Enterprise Software, Generative AI Systems, MLOps & Business Intelligence</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏆 Honors & Recognitions</h4>
-      <ul>
-        <li>🇮🇩 <b>Finalis Duta Bahasa Jawa Barat 2023</b></li>
-        <li>🌐 <b>ICP Hacker House Bali 2024 Winner</b></li>
-        <li>💻 <b>ICPC Asia Jakarta Finalist Participant</b></li>
-        <li>🎖️ <b>BINUS Outstanding Student Award</b></li>
-        <li>📊 <b>SAP Analytics Cloud Certified Specialist</b></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Tech Stack & Ecosystem
-
 <div align="center">
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | `TypeScript` `JavaScript` `Python` `Go` `C++` `Java` `Kotlin` `SQL` |
-| **Frontend & Mobile** | `Next.js` `React` `TailwindCSS` `Redux` `Vite` `Flutter` `HTML5/CSS3` |
-| **Backend & Cloud** | `Node.js` `Express.js` `FastAPI` `Django` `PostgreSQL` `MySQL` `MongoDB` `Supabase` `Firebase` |
-| **AI & MLOps** | `PyTorch` `TensorFlow` `OpenAI API` `LangChain` `vLLM` `HuggingFace` `Pandas` `Scikit-Learn` |
-| **DevOps & Infrastructure** | `Docker` `Kubernetes` `GitHub Actions` `Vercel` `GCP` `AWS` `Linux` |
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=220&color=gradient&customColorList=0:0F172A,50:3B82F6,100:8B5CF6&text=SANTANA%20MENA&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=ffffff&stroke=000000&strokeWidth=1" width="100%" alt="Santana Mena Header"/>
+
+  <!-- Dynamic Animated Typing Subtitle -->
+  <a href="https://santanamnaa.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=500&color=60A5FA&center=true&vCenter=true&width=650&lines=Software+Developer+%E2%80%A2+AI+Engineer+%E2%80%A2+Business+Analyst;Founder+%26+CEO+%40+TSP+Digital;Computer+Science+(Minor+in+Data+Science)+%40+BINUS" alt="Typing Text" />
+  </a>
+
+  <!-- Quick Badges -->
+  <p align="center">
+    <a href="https://santanamnaa.dev"><img src="https://img.shields.io/badge/PORTFOLIO-santanamnaa.dev-3B82F6?style=for-the-badge&logo=react&logoColor=white" /></a>
+    <a href="https://tspdigital.id"><img src="https://img.shields.io/badge/COMPANY-TSP_DIGITAL-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/santana-mena/"><img src="https://img.shields.io/badge/LINKEDIN-SANTANA_MENA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:santanamnaa.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-santanamnaa.dev@gmail.com-EF4444?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
 
 </div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,go,cpp,java,nextjs,react,tailwind,nodejs,fastapi,postgres,mongodb,firebase,docker,gcp,aws,vercel&perline=9" alt="Tech Stack Icons" />
-</p>
+<br/>
+
+```zsh
+⚡ santanamnaa ~ whoami
+---------------------------------------------------------------------------------------------
+► Role      : Software Developer | AI Engineer | Business Analyst
+► Company   : Founder & CEO @ TSP Digital (AI SaaS & Digital Solutions)
+► Education : Computer Science (Minor in Data Science) @ BINUS University
+► Location  : Based in Indonesia 🇮🇩
+► Focus     : Web Engineering, LLMs / MLOps, Enterprise Systems & Analytics
+---------------------------------------------------------------------------------------------
+```
 
 ---
 
-### 📊 GitHub Activity & Performance
+### 🌟 Key Highlights & Achievements
+
+- 🏆 **Finalis Duta Bahasa Jawa Barat 2023**
+- 🏆 **Winner - ICP Hacker House Bali 2024**
+- 🏆 **Participant - ICPC Asia Jakarta Regional**
+- 🏆 **Recipient - BINUS Outstanding Student Award**
+- 📊 **Certified - SAP Analytics Cloud Specialist**
+
+---
+
+### ⚡ Tech Stack & Skills Matrix
 
 <div align="center">
+
+```
+  LANGUAGES     │ TypeScript • JavaScript • Python • Go • C++ • Java • Kotlin • SQL
+  FRONTEND      │ Next.js • React • Tailwind CSS • Redux • Vite • Flutter
+  BACKEND       │ Node.js • Express • FastAPI • Django • PostgreSQL • MySQL • MongoDB • Supabase
+  AI / ML       │ PyTorch • TensorFlow • OpenAI API • LangChain • vLLM • HuggingFace • Pandas
+  DEVOPS        │ Docker • Kubernetes • GitHub Actions • Vercel • GCP • AWS
+```
+
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,go,cpp,java,nextjs,react,tailwind,nodejs,fastapi,postgres,mongodb,supabase,docker,gcp,aws,vercel&perline=9" alt="Skill Icons" />
+</p>
+
+</div>
+
+---
+
+### 📈 GitHub Analytics & Stats
+
+<div align="center">
+
   <table border="0">
     <tr>
-      <td>
+      <td align="center">
         <a href="https://github.com/santanamnaa">
-          <img src="https://github-readme-stats.vercel.app/api?username=santanamnaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Santana Mena GitHub Stats" height="170" />
+          <img src="https://github-readme-stats.vercel.app/api?username=santanamnaa&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
         </a>
       </td>
-      <td>
+      <td align="center">
         <a href="https://github.com/santanamnaa">
-          <img src="https://streak-stats.demolab.com?user=santanamnaa&theme=tokyonight&hide_border=true" alt="Santana Mena GitHub Streak" height="170" />
+          <img src="https://streak-stats.demolab.com?user=santanamnaa&theme=dracula&hide_border=true" height="175" alt="GitHub Streak" />
         </a>
       </td>
     </tr>
   </table>
+
   <br/>
-  <a href="https://github.com/santanamnaa">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santanamnaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/santanamnaa">
-    <img src="https://github-profile-trophy.vercel.app/?username=santanamnaa&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-  </a>
+
+  <table border="0">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/santanamnaa">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santanamnaa&layout=compact&theme=dracula&hide_border=true" height="165" alt="Top Languages" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/santanamnaa">
+          <img src="https://github-profile-trophy.vercel.app/?username=santanamnaa&theme=dracula&no-frame=true&row=1&column=4" height="165" alt="Trophies" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 ---
 
-### 💬 Let's Build Together
+<div align="center">
 
-Whether you are looking to build a high-performance web platform, integrate cutting-edge AI / LLM models, or analyze enterprise data for business strategy:
+### 🤝 Get in Touch
 
-<p align="center">
-  <a href="https://santanamnaa.dev"><b>🌐 Explore Portfolio Website (santanamnaa.dev)</b></a> &nbsp;|&nbsp;
-  <a href="mailto:santanamnaa.dev@gmail.com"><b>✉️ Send Email (santanamnaa.dev@gmail.com)</b></a>
-</p>
+[![Website](https://img.shields.io/badge/Website-santanamnaa.dev-3B82F6?style=flat-square&logo=vercel&logoColor=white)](https://santanamnaa.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santana%20Mena-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santana-mena/)
+[![Email](https://img.shields.io/badge/Email-santanamnaa.dev%40gmail.com-EF4444?style=flat-square&logo=gmail&logoColor=white)](mailto:santanamnaa.dev@gmail.com)
 
-<p align="center">
-  <sub><i>"Bridging software development, artificial intelligence, and business strategy to create high-impact technology."</i></sub>
-</p>
+<sub><i>"Bridging software development, artificial intelligence, and business strategy to build real-world solutions."</i></sub>
+
+</div>
