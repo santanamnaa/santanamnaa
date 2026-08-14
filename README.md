@@ -1,14 +1,27 @@
 <div align="center">
 
-  <!-- Glassmorphic Soft Pill Header with Stroke & Blue Shadow Glow -->
-  <p align="center">
-    <a href="https://santanamnaa.dev">
-      <img 
-        src="https://capsule-render.vercel.app/api?type=soft&height=160&color=0d1117&stroke=3b82f6&strokeWidth=1.5&text=Santana%20Mena&fontAlign=50&fontAlignY=38&fontSize=42&fontColor=ffffff&desc=Software%20Developer%20%7C%20AI%20Engineer%20%7C%20Business%20Analyst&descAlign=50&descAlignY=68&descSize=16" 
-        alt="Santana Mena Glassmorphic Soft Pill Header"
-        style="filter: drop-shadow(0 0 18px rgba(59, 130, 246, 0.6)); border-radius: 16px;"
-      />
-    </a>
+  <!-- 3D Keyboard Typing Animation Header -->
+  <a href="https://santanamnaa.dev">
+    <img 
+      src="./assets/keyboard.gif" 
+      alt="3D Keyboard Typing Animation" 
+      width="580" 
+      style="border-radius: 14px; border: 1px solid #30363d;"
+    />
+  </a>
+
+  <br/><br/>
+
+  <!-- Dynamic Typing Title -->
+  <a href="https://santanamnaa.dev">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=50&lines=Santana+Mena;Software+Developer;AI+Engineer;Business+Analyst" 
+      alt="Typing Header" 
+    />
+  </a>
+
+  <p>
+    Software Developer &middot; AI Engineer &middot; Business Analyst
   </p>
 
   <p>
