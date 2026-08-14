@@ -3,20 +3,19 @@
   <!-- Header Banner -->
   <a href="https://santanamnaa.dev">
     <img 
-      src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&text=Santana%20Mena&fontAlign=50&fontAlignY=36&fontSize=34&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Open%20for%20Remote%20Roles&descAlign=50&descAlignY=68&descSize=13" 
+      src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&text=Santana%20Mena&fontAlign=50&fontAlignY=36&fontSize=34&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Available%20for%20Hire&descAlign=50&descAlignY=68&descSize=13" 
       alt="Santana Mena Header" 
       width="100%"
     />
   </a>
 
   <p>
-    <b>Software Engineer</b> &middot; Open for Remote & Full-Time Roles &middot; Based in Indonesia
+    <b>Software Engineer &middot; Available for Remote & Full-Time Hire &middot; Based in Indonesia</b>
   </p>
 
   <p>
     <a href="https://santanamnaa.dev">Website</a> &nbsp;&middot;&nbsp;
     <a href="https://santanamnaa.dev/projects">Projects</a> &nbsp;&middot;&nbsp;
-    <a href="https://santanamnaa.dev/achievements">Achievements</a> &nbsp;&middot;&nbsp;
     <a href="https://santanamnaa.dev/contact">Contact</a>
   </p>
 
@@ -26,7 +25,9 @@
 
 ### About
 
-Software Engineer specializing in full-stack web platforms, backend microservices, and mobile technology solutions. Studying Computer Science with a **Minor in Data Science** at **BINUS University**.
+Software Engineer ready to build and scale production web applications, backend microservices, and high-performance digital products. Graduating in Computer Science with a **Minor in Data Science** at **BINUS University**.
+
+**Actively seeking Remote & Full-Time Software Engineer opportunities globally.**
 
 ---
 
@@ -40,6 +41,6 @@ Software Engineer specializing in full-stack web platforms, backend microservice
 
 <div align="center">
 
-  <p>Looking for a Remote Software Engineer? Reach me at <a href="mailto:santanamnaa.dev@gmail.com"><b>santanamnaa.dev@gmail.com</b></a>.</p>
+  <p>Ready to hire? Contact me directly at <a href="mailto:santanamnaa.dev@gmail.com"><b>santanamnaa.dev@gmail.com</b></a> or visit <a href="https://santanamnaa.dev/contact"><b>santanamnaa.dev/contact</b></a>.</p>
 
 </div>
