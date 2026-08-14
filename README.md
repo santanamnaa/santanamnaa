@@ -1,11 +1,14 @@
 <div align="center">
 
-```
-================================================================================
-                           S A N T A N A   M E N A
-                        Remote Software Engineer
-================================================================================
-```
+  <!-- Clean Typing SVG Header without Box/Frame -->
+  <a href="https://santanamnaa.dev">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2200&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=60&lines=Santana+Mena;Remote+Software+Engineer" 
+      alt="Santana Mena Header" 
+    />
+  </a>
+
+  <br/><br/>
 
   <p>
     <b>Software Engineer</b> &middot; Open for Remote & Full-Time Roles &middot; Based in Indonesia
