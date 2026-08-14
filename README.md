@@ -1,17 +1,19 @@
 <div align="center">
 
-  <!-- Keyboard / Terminal Hero Window with Subtle Blue Glow -->
-  <a href="https://santanamnaa.dev">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=130&lines=%3E_Santana+Mena;%3E_Software+Developer;%3E_AI+Engineer;%3E_Business+Analyst" 
-      alt="Keyboard Hero Animation"
-      style="filter: drop-shadow(0 0 24px rgba(59, 130, 246, 0.75)); border-radius: 12px;"
-    />
-  </a>
+  <!-- Minimalist Terminal Code Window with Control Buttons & Blue Glow -->
+  <div style="max-width: 650px; margin: 0 auto; text-align: center;">
+    <a href="https://santanamnaa.dev">
+      <img 
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=640&height=140&lines=%E2%97%8F+%E2%97%8F+%E2%97%8F+--+terminal;%3E_Santana+Mena;%3E_Software+Developer;%3E_AI+Engineer;%3E_Business+Analyst" 
+        alt="Minimalist Terminal Code Window"
+        style="filter: drop-shadow(0 0 20px rgba(59, 130, 246, 0.65)); border-radius: 12px; border: 1px solid rgba(59, 130, 246, 0.3);"
+      />
+    </a>
+  </div>
 
-  <br/><br/>
+  <br/>
 
-  <p style="filter: drop-shadow(0 0 10px rgba(59, 130, 246, 0.45)); font-family: monospace;">
+  <p style="filter: drop-shadow(0 0 8px rgba(59, 130, 246, 0.4)); font-family: monospace;">
     Software Developer &middot; AI Engineer &middot; Business Analyst
   </p>
 
