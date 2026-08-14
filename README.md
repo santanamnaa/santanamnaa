@@ -1,10 +1,10 @@
 <div align="center">
 
-  <!-- Compact Pitch Black (#000000) Waving Hero Banner (No Twinkling Animation) -->
+  <!-- Header Banner -->
   <a href="https://santanamnaa.dev">
     <img 
-      src="https://capsule-render.vercel.app/api?type=waving&height=130&color=000000&text=Santana%20Mena&fontAlign=50&fontAlignY=36&fontSize=36&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Open%20for%20Remote%20Roles&descAlign=50&descAlignY=68&descSize=14" 
-      alt="Santana Mena Hero Banner" 
+      src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&text=Santana%20Mena&fontAlign=50&fontAlignY=36&fontSize=34&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Open%20for%20Remote%20Roles&descAlign=50&descAlignY=68&descSize=13" 
+      alt="Santana Mena Header" 
       width="100%"
     />
   </a>
@@ -26,35 +26,15 @@
 
 ### About
 
-Software Engineer with hands-on experience building production-ready web platforms, scalable backend services, and mobile application solutions. 
-
-Graduating in Computer Science with a **Minor in Data Science** at **BINUS University**, specializing in full-stack web architecture, clean code practices, and performant modern software stacks.
-
-Interested in **Remote Software Engineer roles globally** and full-time engineering opportunities.
-
-Explore my portfolio at **[santanamnaa.dev](https://santanamnaa.dev)** or review my **[featured projects](https://santanamnaa.dev/projects)**.
+Software Engineer specializing in full-stack web platforms, backend microservices, and mobile technology solutions. Studying Computer Science with a **Minor in Data Science** at **BINUS University**.
 
 ---
 
-### Core Competencies
-
-- **Frontend Engineering**: Next.js, React, TypeScript, Tailwind CSS, Redux, Vite, Flutter, responsive UI/UX architecture.
-- **Backend & Systems**: Node.js, Express, FastAPI, Django, Go, C++, REST APIs, microservices, and database optimization.
-- **Database Management**: PostgreSQL, MySQL, MongoDB, Supabase, Firebase, and relational schema modeling.
-- **DevOps & Delivery**: Docker, Kubernetes, CI/CD with GitHub Actions, Vercel, GCP, AWS, and cloud deployments.
-
----
-
-### Tech Stack & Tools
+### Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,go,cpp,java,nextjs,react,tailwind,nodejs,express,fastapi,postgres,mysql,mongodb,supabase,firebase,docker,gcp,aws,vercel,git,linux&perline=8" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,go,cpp,java,nextjs,react,tailwind,nodejs,express,fastapi,postgres,mysql,mongodb,supabase,firebase,docker,gcp,aws,vercel,git&perline=8" alt="Tech Stack Icons" />
 </p>
-
-- **Languages**: TypeScript, JavaScript, Python, Go, C++, Java, Kotlin, SQL
-- **Frontend & Mobile**: Next.js, React, Tailwind CSS, Redux, Vite, Flutter
-- **Backend & Databases**: Node.js, Express, FastAPI, Django, PostgreSQL, MySQL, MongoDB, Supabase, Firebase
-- **Infrastructure & Tools**: Docker, Kubernetes, GitHub Actions, Vercel, GCP, AWS, Linux, Git
 
 ---
 
@@ -70,6 +50,6 @@ Explore my portfolio at **[santanamnaa.dev](https://santanamnaa.dev)** or review
 
 <div align="center">
 
-  <p>Interested in hiring a Remote Software Engineer? Reach me directly at <a href="mailto:santanamnaa.dev@gmail.com"><b>santanamnaa.dev@gmail.com</b></a> or via <a href="https://santanamnaa.dev/contact"><b>santanamnaa.dev/contact</b></a>.</p>
+  <p>Looking for a Remote Software Engineer? Reach me at <a href="mailto:santanamnaa.dev@gmail.com"><b>santanamnaa.dev@gmail.com</b></a>.</p>
 
 </div>
