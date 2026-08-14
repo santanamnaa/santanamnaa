@@ -1,28 +1,15 @@
 <div align="center">
 
-  <!-- 3D Keyboard Typing Animation Header -->
+  <!-- Pure Executive Monochrome Header Banner -->
   <a href="https://santanamnaa.dev">
     <img 
-      src="./assets/keyboard.gif" 
-      alt="3D Keyboard Typing Animation" 
-      width="580" 
-      style="border-radius: 14px; border: 1px solid #30363d;"
+      src="https://capsule-render.vercel.app/api?type=rect&height=140&color=161b22&stroke=30363d&strokeWidth=1&text=Santana%20Mena&fontAlign=50&fontAlignY=38&fontSize=40&fontColor=ffffff&desc=Software%20Developer%20%7C%20AI%20Engineer%20%7C%20Business%20Analyst&descAlign=50&descAlignY=68&descSize=15" 
+      alt="Santana Mena Header" 
+      width="100%"
     />
   </a>
 
   <br/><br/>
-
-  <!-- Dynamic Typing Title -->
-  <a href="https://santanamnaa.dev">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=50&lines=Santana+Mena;Software+Developer;AI+Engineer;Business+Analyst" 
-      alt="Typing Header" 
-    />
-  </a>
-
-  <p>
-    Software Developer &middot; AI Engineer &middot; Business Analyst
-  </p>
 
   <p>
     Based in Indonesia
@@ -66,18 +53,6 @@ Feel free to check out my **[projects](https://santanamnaa.dev/projects)** or vi
 - ICPC Asia Jakarta Regional Participant
 - BINUS Outstanding Student Award
 - SAP Analytics Cloud Certified Specialist
-
----
-
-### GitHub Activity Graph
-
-<div align="center">
-
-  <a href="https://github.com/santanamnaa">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=santanamnaa&theme=react-dark&hide_border=true" width="100%" alt="GitHub Activity Graph" />
-  </a>
-
-</div>
 
 ---
 
