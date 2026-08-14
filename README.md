@@ -38,16 +38,6 @@ Software Engineer specializing in full-stack web platforms, backend microservice
 
 ---
 
-### Honors & Achievements
-
-- Finalis Duta Bahasa Jawa Barat 2023
-- ICP Hacker House Bali 2024 Winner
-- ICPC Asia Jakarta Regional Participant
-- BINUS Outstanding Student Award
-- SAP Analytics Cloud Certified Specialist
-
----
-
 <div align="center">
 
   <p>Looking for a Remote Software Engineer? Reach me at <a href="mailto:santanamnaa.dev@gmail.com"><b>santanamnaa.dev@gmail.com</b></a>.</p>
