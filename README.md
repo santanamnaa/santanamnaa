@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- Animated Hero Banner -->
+  <!-- Pitch Black (#000000) Waving Hero Banner -->
   <a href="https://santanamnaa.dev">
     <img 
-      src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0d1117&text=Santana%20Mena&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Open%20for%20Remote%20Roles&descAlign=50&descAlignY=62&descSize=16&animation=twinkling" 
+      src="https://capsule-render.vercel.app/api?type=waving&height=220&color=000000&text=Santana%20Mena&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Open%20for%20Remote%20Roles&descAlign=50&descAlignY=62&descSize=16&animation=twinkling" 
       alt="Santana Mena Hero Banner" 
       width="100%"
     />
